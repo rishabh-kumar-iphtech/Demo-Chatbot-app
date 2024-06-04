@@ -20,3 +20,5 @@
 11. Paste Snippet in codebase :Paste the copied snippet inside the <head> tag in our index.html file.
 12. Check Installation: Return to our Intercom account and click the [Check Installation] button to verify.
 13. Test Chatbot in Electron app: Begin our development server using the command : `npm start`.
+
+https://github.com/rishabh-kumar-iphtech/Demo-Chatbot-app/assets/168096237/ad22ed70-0434-4b02-bdad-365a2b023ed5
